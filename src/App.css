@@ -468,6 +468,11 @@ color: #ffc34b;
   text-align: center;
   width: 56%;
 }
+
+.project h2:hover, .project p:hover{
+  scale: 1.05;
+}
+
 .project .nav.nav-pills {
   width: 72%;
   margin: 0 auto;
