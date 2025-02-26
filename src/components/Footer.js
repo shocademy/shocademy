@@ -3,7 +3,7 @@ import { MailchimpForm } from "./MailchimpForm";
 import logo from "../assets/img/logo.svg";
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import navIcon2 from "../assets/img/github-mark-white.svg";
-import navIcon3 from "../assets/img/nav-icon3.svg";
+import navIcon3 from "../assets/img/Linktree_logo_white.svg";
 import clickSound from '../assets/sounds/click.wav';
 
 export const Footer = () => {
@@ -24,7 +24,7 @@ export const Footer = () => {
             <div className="social-icon">
               <a onMouseEnter={playClickSound}  href="https://www.linkedin.com/in/scriptbal/"><img src={navIcon1} alt="Icon" /></a>
               <a onMouseEnter={playClickSound}  href="https://github.com/shocademy"><img src={navIcon2} alt="Icon" /></a>
-              <a onMouseEnter={playClickSound}  href="https://www.instagram.com/shocademy"><img src={navIcon3} alt="Icon" /></a>
+              <a onMouseEnter={playClickSound}  href="https://linktr.ee/shocademy"><img src={navIcon3} alt="Icon" /></a>
             </div>
             <p onMouseEnter={playClickSound} >Copyright 2025. All Rights Reserved</p>
           </Col>
