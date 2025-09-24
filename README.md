@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ### My Github Stats
 
-[![Shocademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shocademy&show_icons=true&theme=merko)]
+![Shocademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shocademy&show_icons=true&theme=merko)
 
 
 
