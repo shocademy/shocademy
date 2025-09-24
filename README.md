@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 ![Shocademy's GitHub stats](https://github-readme-stats.vercel.app/api?username=shocademy&show_icons=true&theme=merko)
 
 
+<br>
+<br>
 
 ### Play a game with me
 <!-- 
@@ -66,6 +68,8 @@ Here are some ideas to get you started:
 </picture>
 
 ### -->
+
+
 
 <img src="https://raw.githubusercontent.com/shocademy/shocademy/output/snake.svg" alt="Snake animation" />
 
