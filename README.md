@@ -92,9 +92,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
 <!-- ![char](/char.jpg) -->
 
 
