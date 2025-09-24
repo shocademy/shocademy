@@ -1,4 +1,3 @@
-## Hi there!  **I'm Shocademy** 👋 
 
 
 ![Shocademy](img/github-header-banner.png)
@@ -18,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hi there!  **I'm Shocademy** 👋 
 
 - 🔭 I’m currently working on **Personal Web Portfolio**
 - 🌱 I’m currently learning [**React.js**](https://react.dev/) Library 
