@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 ## Hi there!  **I'm Shocademy** 👋 
 
+- 💬 Ask me about something
 - 🔭 I’m currently working on **Personal Web Portfolio**
 - 🌱 I’m currently learning [**React.js**](https://react.dev/) Library 
-- 👯 I’m looking to collaborate on Upwork
-- 💬 Ask me about something
-- 📫 How to reach me: Linkedin
+- 👯 I’m looking to collaborate on [**Upwork**](https://www.upwork.com/freelancers/~018be1157731563101?mp_source=share)
+- 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/scriptbal/)
 - 😄 Pronouns: Sho
 - ⚡ Fun fact: Start First, Then Known
 
