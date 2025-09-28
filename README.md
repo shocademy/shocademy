@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### Play a game with me
+
 <!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shocademy/shocademy/output/pacman-contribution-graph-dark.svg">
